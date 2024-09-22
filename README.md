@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajeshwar Kushwaha</h1>
 <h3 align="center">"Data Science Enthusiast | Machine Learning | Data Analysis | Python & SQL Expertise"</h3>
 
-- 👨‍💻 All of my projects are available at [Project Portfolio](Project Portfolio)
+- 👨‍💻 All of my projects are available at [Project Portfolio]([Project Portfolio](https://github.com/Rajeshwark1/Project-Portfolio))
 
 - 📫 How to reach me *rajeshwarkushwaha921@gmail.com*
 
