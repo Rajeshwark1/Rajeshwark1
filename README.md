@@ -5,7 +5,7 @@
 
 - 📫 How to reach me *rajeshwarkushwaha921@gmail.com*
 
-- 📄 Know about my experiences [my resume](my resume)
+- 📄 Know about my experiences [my resume]([my resume](https://github.com/Rajeshwark1/Rajeshwark1/blob/main/Rajeshwar%20Resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
